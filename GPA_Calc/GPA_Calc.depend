@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1756838345 source:e:\dev c++\codeblocks projects\cs50 iti\main.cpp
+	<iostream>
+	<climits>
+
